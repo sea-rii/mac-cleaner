@@ -62,6 +62,7 @@ Pick an option and let the cleaner work ✨
 
 Inside main.py, adjust:
 > days_threshold=30        # Delete files older than this many days
+
 > large_file_min_mb=500    # Big File Radar threshold
 
 Examples:
@@ -93,5 +94,6 @@ mac-cleaner/
 
 ## 💛 Credits
 
-Developed by: Sai Siri Chittineni\
+Developed by: Sai Siri Chittineni
+
 Designed to keep your Mac light, clean, and speedy ✨
