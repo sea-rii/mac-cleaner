@@ -1,11 +1,10 @@
-# 🍏 Mac Cleaner v2 — by Sai Siri
+# 🍏 Mac Cleaner — by Sai Siri
 
 A lightweight, safe, and smart macOS cleaning tool built in Python.  
 This CLI-based utility helps you free space, clean old junk, scan for huge files, and visualize storage usage — all with a beautiful terminal UI powered by **Rich**.
 
 ✨ Perfect for keeping your Mac fast, organized, and clutter-free.
 
----
 
 ## 🚀 Features
 
@@ -45,9 +44,9 @@ tell application "Finder" to empty trash
 
 ## ▶️ Usage
 Run the tool:
-```
-python main.py
-```
+
+> python main.py
+
 Interactive menu:
 ```
 1) Clean caches (age-based)
@@ -70,7 +69,7 @@ mac-cleaner/
 │── README.md
 ```
 
-##🛡️ Safety
+## 🛡️ Safety
 
 - Mac Cleaner v2 is built to be safe:
 - Only touches user-level caches/logs
@@ -81,5 +80,5 @@ mac-cleaner/
 
 ## 💛 Credits
 
-Developed by: Sai Siri Chittineni
+Developed by: Sai Siri Chittineni\
 Designed to keep your Mac light, clean, and speedy ✨
