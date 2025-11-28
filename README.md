@@ -58,6 +58,19 @@ Interactive menu:
 ```
 Pick an option and let the cleaner work ✨
 
+## ⚙️ Customization
+
+Inside main.py, adjust:
+> days_threshold=30        # Delete files older than this many days
+> large_file_min_mb=500    # Big File Radar threshold
+
+Examples:
+
+Set days_threshold=7 for more aggressive weekly cleaning
+
+Lower big file threshold to 200MB if you want a deeper scan
+
+
 ## 📂 Project Structure
 ```
 mac-cleaner/
