@@ -58,6 +58,10 @@ Interactive menu:
 ```
 Pick an option and let the cleaner work ✨
 
+## 📜 Blog 
+
+> https://medium.com/@saisirichittineni/reclaiming-my-mac-how-i-built-a-storage-cleaner-that-finally-gave-me-my-space-back-5b03cbb3763d
+
 ## ⚙️ Customization
 
 Inside main.py, adjust:
